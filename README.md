@@ -1,3 +1,4 @@
+<img width="652" height="383" alt="Screenshot 2026-07-20 003926" src="https://github.com/user-attachments/assets/c76e1559-2cab-49ee-811c-84070114882d" />
 # ATM Management System
 
 This is my first Python OOP ATM project.
