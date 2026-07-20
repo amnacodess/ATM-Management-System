@@ -48,7 +48,7 @@ class ATM:
        print("Have a nice day!")
 
 
-a1 = ATM("Amna", 2006, 50000)
+a1 = ATM("Amna", 1234, 50000)
 
 print("========================")
 print("     WELCOME TO ATM")
